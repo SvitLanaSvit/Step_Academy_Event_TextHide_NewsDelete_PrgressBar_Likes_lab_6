@@ -1,0 +1,1 @@
+[event_tasks](SvitLanaSvit/Step_Academy_Event_TextHide_NewsDelete_PrgressBar_Likes_lab_6/index.html)
